@@ -1,0 +1,43 @@
+#title {
+  text-align: center;
+}
+
+#img-div {
+}
+
+.image-size {
+  /*giving the image a fixed size */
+}
+
+#image {
+  /*giving it a fixed size */
+  width: 960px;
+  height: 539px;
+  /*responsive image */
+  display: block;
+  max-width: 100%;
+  height: auto;
+  /*centering the picture */
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#img-caption {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#tribute-info {
+}
+
+#tribute-link {
+}
+.classtribute-link {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color: blue;
+  background: #00ff66;
+}
